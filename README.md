@@ -142,7 +142,7 @@ Web platforms, a social network, and APIs: jobs, tickets, scheduling, authentica
       <a href="https://abdoulrl2028-cloud-dev.github.io/meu-site-empresa/"><img src="assets/projects/empresa.jpg" alt="Company website"></a>
     </td>
     <td width="33%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/mobile-digital-products"><img src="assets/projects/mobile-products.jpg" alt="Mobile Digital Products"></a>
+      <a href="https://mobile-digital-products.vercel.app"><img src="assets/projects/mobile-products.jpg" alt="Mobile Digital Products"></a>
     </td>
     <td width="33%">
       <a href="https://github.com/abdoulrl2028-cloud-Dev/aws-farmacia-reducao-custos"><img src="assets/projects/pharmacy.jpg" alt="Pharmacy on AWS"></a>
