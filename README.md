@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Abdoul Rachid Lengane — desenvolvedor de Games, Mobile e Software" width="100%">
+  <img src="assets/banner.jpg" alt="Abdoul Rachid Lengane — game, mobile, and software developer" width="100%">
 </p>
 
 <h3 align="center">Abdoul Rachid Lengane</h3>
 <p align="center">
-  Desenvolvedor de <b>Games</b>, <b>Mobile</b> e <b>Software</b><br>
+  <b>Game</b>, <b>Mobile</b>, and <b>Software</b> developer<br>
   Unity · Flutter · Kotlin · React Native · Next.js · TypeScript · C#<br>
-  São Paulo, Brasil · Aberto a oportunidades
+  Sao Paulo, Brazil · Open to opportunities
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abdoul-rac"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/abdoulrl2028-cloud-Dev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios"></a>
+  <a href="https://github.com/abdoulrl2028-cloud-Dev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projects"></a>
 </p>
 
 <p align="center">
@@ -26,27 +26,27 @@
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
 </p>
 
-As imagens abaixo são capas de portfólio de cada projeto. Elas mostram a ideia do que foi construído, para um recrutador entender o trabalho em poucos segundos.
+The images below are portfolio covers. Each one shows what the project is, so a recruiter can understand the work in a few seconds.
 
-## Áreas
+## Focus
 
 <table>
   <tr>
     <td width="33%" align="center">
-      <a href="#games"><img src="assets/roles/games.jpg" alt="Desenvolvimento de games"></a>
+      <a href="#games"><img src="assets/roles/games.jpg" alt="Game development"></a>
     </td>
     <td width="33%" align="center">
-      <a href="#mobile"><img src="assets/roles/mobile.jpg" alt="Desenvolvimento mobile"></a>
+      <a href="#mobile"><img src="assets/roles/mobile.jpg" alt="Mobile development"></a>
     </td>
     <td width="33%" align="center">
-      <a href="#software"><img src="assets/roles/software.jpg" alt="Desenvolvimento de software"></a>
+      <a href="#software"><img src="assets/roles/software.jpg" alt="Software development"></a>
     </td>
   </tr>
 </table>
 
 ## Games
 
-Jogos feitos em Unity e C#: exploração 3D, FPS e platformer.
+Unity and C# games: 3D exploration, a first-person shooter, and a platformer.
 
 <table>
   <tr>
@@ -62,11 +62,11 @@ Jogos feitos em Unity e C#: exploração 3D, FPS e platformer.
       <a href="https://github.com/abdoulrl2028-cloud-Dev/survivantes-platformer"><img src="assets/projects/survivantes.jpg" alt="Survivantes"></a>
     </td>
     <td width="50%" valign="top">
-      <h3>O que um recrutador encontra aqui</h3>
+      <h3>What a recruiter finds here</h3>
       <ul>
-        <li>Cenas, jogador, inimigos e interface em Unity</li>
-        <li>C# aplicado a gameplay e ferramentas de cena</li>
-        <li>Projetos jogáveis, não só repositórios vazios</li>
+        <li>Scenes, player, enemies, and interface in Unity</li>
+        <li>C# used for gameplay and scene tools</li>
+        <li>Playable projects, not empty repositories</li>
       </ul>
     </td>
   </tr>
@@ -74,7 +74,7 @@ Jogos feitos em Unity e C#: exploração 3D, FPS e platformer.
 
 ## Mobile
 
-Aplicativos Android, Flutter e React Native: obras, vagas, finanças, vendas e operação em campo.
+Android, Flutter, and React Native apps: construction, jobs, finance, sales, and field operations.
 
 <table>
   <tr>
@@ -95,7 +95,7 @@ Aplicativos Android, Flutter e React Native: obras, vagas, finanças, vendas e o
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/digital-wallet-mobile"><img src="assets/projects/wallet.jpg" alt="Carteira Digital"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/digital-wallet-mobile"><img src="assets/projects/wallet.jpg" alt="Digital Wallet"></a>
     </td>
     <td width="50%">
       <a href="https://github.com/abdoulrl2028-cloud-Dev/-Enterprise-Mobile-Application"><img src="assets/projects/enterprise.jpg" alt="Enterprise Mobile"></a>
@@ -105,7 +105,7 @@ Aplicativos Android, Flutter e React Native: obras, vagas, finanças, vendas e o
 
 ## Software
 
-Plataformas web, redes sociais e APIs usadas por produto de verdade: vagas, chamados, agenda, autenticação e visão computacional.
+Web platforms, a social network, and APIs: jobs, tickets, scheduling, authentication, and computer vision.
 
 <table>
   <tr>
@@ -118,10 +118,10 @@ Plataformas web, redes sociais e APIs usadas por produto de verdade: vagas, cham
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/Sistema-de-Chamados---API-ASP.NET-Core-"><img src="assets/projects/chamados.jpg" alt="Sistema de Chamados"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/Sistema-de-Chamados---API-ASP.NET-Core-"><img src="assets/projects/chamados.jpg" alt="Ticket System"></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/appointment-system-api"><img src="assets/projects/appointment.jpg" alt="Agenda de Serviços"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/appointment-system-api"><img src="assets/projects/appointment.jpg" alt="Appointment API"></a>
     </td>
   </tr>
   <tr>
@@ -129,39 +129,40 @@ Plataformas web, redes sociais e APIs usadas por produto de verdade: vagas, cham
       <a href="https://github.com/abdoulrl2028-cloud-Dev/gesture-recognition-ml"><img src="assets/projects/gesture.jpg" alt="Gesture Recognition"></a>
     </td>
     <td width="50%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/ia-entrevistador"><img src="assets/projects/interview.jpg" alt="IA Entrevistador"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/ia-entrevistador"><img src="assets/projects/interview.jpg" alt="Interview AI"></a>
     </td>
   </tr>
 </table>
 
-## Também no portfólio
+## More projects
 
 <table>
   <tr>
     <td width="33%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/meu-site-empresa"><img src="assets/projects/empresa.jpg" alt="Site institucional"></a>
+      <a href="https://abdoulrl2028-cloud-dev.github.io/meu-site-empresa/"><img src="assets/projects/empresa.jpg" alt="Company website"></a>
     </td>
     <td width="33%">
       <a href="https://github.com/abdoulrl2028-cloud-Dev/mobile-digital-products"><img src="assets/projects/mobile-products.jpg" alt="Mobile Digital Products"></a>
     </td>
     <td width="33%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/aws-farmacia-reducao-custos"><img src="assets/projects/pharmacy.jpg" alt="Farmácia AWS"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/aws-farmacia-reducao-custos"><img src="assets/projects/pharmacy.jpg" alt="Pharmacy on AWS"></a>
     </td>
   </tr>
   <tr>
     <td width="33%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/carteira-digital"><img src="assets/projects/carteira-web.jpg" alt="Carteira Digital Web"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/carteira-digital"><img src="assets/projects/carteira-web.jpg" alt="Digital Wallet Web"></a>
     </td>
     <td width="33%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/extrato-bancario-kotlin"><img src="assets/projects/extrato.jpg" alt="Extrato Bancário"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/extrato-bancario-kotlin"><img src="assets/projects/extrato.jpg" alt="Bank Statement"></a>
     </td>
     <td width="33%">
-      <a href="https://github.com/abdoulrl2028-cloud-Dev/User-Management-API"><img src="assets/projects/api.jpg" alt="APIs REST"></a>
+      <a href="https://github.com/abdoulrl2028-cloud-Dev/User-Management-API"><img src="assets/projects/api.jpg" alt="REST APIs"></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdoul-rac">Falar no LinkedIn</a>
-
+  <a href="https://www.linkedin.com/in/abdoul-rac">LinkedIn</a>
+  ·
+  <a href="https://github.com/abdoulrl2028-cloud-Dev/meu-site-empresa">Company website source</a>
 </p>
